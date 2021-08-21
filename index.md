@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+decolonization of an old portfolio part of a serie
 
-You can use the [editor on GitHub](https://github.com/gambiolo/lowtech-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gambiolo/lowtech-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Screen Shot 2021-08-21 at 11 22 28 AM](https://user-images.githubusercontent.com/86488172/130317598-f66a0cab-ab6e-473a-92df-b98f1f96cb83.png)
+![Screen Shot 2021-08-21 at 11 21 52 AM](https://user-images.githubusercontent.com/86488172/130317605-a44d9583-53de-4008-8653-a1526d6574a2.png)
