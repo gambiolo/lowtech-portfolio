@@ -1,5 +1,4 @@
-### Mix of press articles illustrated and/or witten by yours trully, this is just 30% of the stuff that I found online, the rest is mainly on paper or books I rode, or have have disapear from the Web2...soon web3, cannot wait to reclaim all the jpeg stollen from 15 years of hustling.
-
+### Mix of press articles illustrated and/or witten by yours trully, this is just 30% of the stuff that I found online, the rest is mainly on paper or books I wrote before 2021:
 
 
 https://detours.canal.fr/avec-les-makers-de-burning-man/
@@ -150,7 +149,9 @@ https://tailored-communication.com/artists/feathered-sun
 
 .
 
+### Here are few issues on paper:
 
+.
 
 
 ![Capture d’écran 2021-10-03 à 19 14 28](https://user-images.githubusercontent.com/86488172/135765941-72e960ab-ee9c-47d0-a900-22f3de1e5460.png)
@@ -158,7 +159,7 @@ https://tailored-communication.com/artists/feathered-sun
 ![Capture d’écran 2021-10-03 à 19 21 16](https://user-images.githubusercontent.com/86488172/135765718-2bddf62f-ab9f-4103-b59a-7889250f6375.png)
 ![Capture d’écran 2021-10-03 à 19 19 33](https://user-images.githubusercontent.com/86488172/135765724-05971000-329d-4836-b04d-0e21d2363de5.png)
 
-### google us around:
+### And a quick google search:
 
 
 
