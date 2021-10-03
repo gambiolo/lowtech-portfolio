@@ -1,4 +1,4 @@
-### Mix of press articles illustrated and/or witten by yours trully, this is just 30% of the stuff that I found online, the rest is mainly on paper or books I wrote before 2021:
+## Mix of press articles online or paper before 2021
 
 
 https://detours.canal.fr/avec-les-makers-de-burning-man/
